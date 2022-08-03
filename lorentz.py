@@ -2,7 +2,7 @@
 #also know as Meier Tannor decomposition
 #ref https://aip.scitation.org/doi/10.1063/1.4870035  (see eq 10)
 #dr.gharib85@gmail.com
-#https://github.com/dr.gharib85
+#https://github.com/gharib85
 
 
 
